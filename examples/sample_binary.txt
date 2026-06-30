@@ -1,0 +1,3 @@
+This is a benign sample file meant for testing SixEyes.
+Below lies an obfuscated malicious URL string hidden behind XOR key 5:
+mwwu>..fjaaj`av$b`b
