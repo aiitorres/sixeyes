@@ -1,4 +1,5 @@
-# SixEyes Static Malware Analysis Engine
+# SixEyes 
+> Static Malware Analysis Engine
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Maintenance](https://img.shields.io/badge/status-active-green.svg)](https://github.com/YOUR_USERNAME/six-eyes)
