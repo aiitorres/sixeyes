@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Maintenance](https://img.shields.io/badge/status-active-green.svg)](https://github.com/YOUR_USERNAME/six-eyes)
 
-SixEyes is a modular, high-performance static malware analysis and automated deobfuscation engine developed in Python. Designed for security researchers and reverse engineers, the system performs rapid structural triage, evaluates threat indicators, and strips away common evasion and obfuscation layers from binary targets without executing the sample.
+SixEyes is a modular, high-performance static malware analysis and automated deobfuscation engine developed in Python. Designed for security researchers and reverse engineers, the system performs rapid structural triage, evaluates threat indicators, and strips away common evasion and obfuscation layers from binary targets without executing samples.
 
 ---
 
